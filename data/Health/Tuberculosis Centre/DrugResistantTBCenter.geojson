@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DrugResistantTBCenter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DRCName": "Drug Resistant TB Center, Gulbarga", "KGISDRCID": 1, "DepartmentCode": "DRT01", "KGISVillageID": 3347, "KGISWardID": 0, "KGISCode": null }, "geometry": { "type": "Point", "coordinates": [ 76.840899999859147, 17.329200000379092 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DRCName": "Drug Resistant TB Center, Dharwad", "KGISDRCID": 2, "DepartmentCode": "DRT02", "KGISVillageID": 6683, "KGISWardID": 0, "KGISCode": null }, "geometry": { "type": "Point", "coordinates": [ 75.129924299997114, 15.363291200276089 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "DRCName": "Drug Resistant TB Center, Dakshina Kannada", "KGISDRCID": 3, "DepartmentCode": "DRT03", "KGISVillageID": 31454, "KGISWardID": 0, "KGISCode": null }, "geometry": { "type": "Point", "coordinates": [ 74.838099999725316, 12.861000000145694 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "DRCName": "Drug Resistant TB Center, Bijapur", "KGISDRCID": 4, "DepartmentCode": "DRT04", "KGISVillageID": 4989, "KGISWardID": 0, "KGISCode": null }, "geometry": { "type": "Point", "coordinates": [ 75.710627172499784, 16.845173595699741 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "DRCName": "Drug Resistant TB Center, Mysore", "KGISDRCID": 5, "DepartmentCode": "DRT05", "KGISVillageID": 28458, "KGISWardID": 0, "KGISCode": null }, "geometry": { "type": "Point", "coordinates": [ 76.639825812884837, 12.328364600306813 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "DRCName": "Drug Resistant TB Center, Bangalore City", "KGISDRCID": 6, "DepartmentCode": "DRT06", "KGISVillageID": 15680, "KGISWardID": 0, "KGISCode": null }, "geometry": { "type": "Point", "coordinates": [ 77.599136118379334, 12.937619412263583 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "DRCName": "Drug Resistant TB Center, Bellary", "KGISDRCID": 7, "DepartmentCode": "DRT07", "KGISVillageID": 5007, "KGISWardID": 0, "KGISCode": null }, "geometry": { "type": "Point", "coordinates": [ 76.896596100266436, 15.15432320016483 ] } }
+]
+}

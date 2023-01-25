@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ayush Drug Testing Laboratory",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISADTLID": 4, "DepartmentCode": "DTL04", "KGISVillageID": 15137, "KGISWardID": null, "KGISCode": "29572055428031620000HFAYUDULABDTL0001", "ADTLName": "Government Central Pharmacy & Drug Testing Laboratory For Ayush Drugs, Bengaluru" }, "geometry": { "type": "Point", "coordinates": [ 77.582719131527298, 12.943413505992376 ] } }
+]
+}

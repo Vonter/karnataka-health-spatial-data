@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Implantable Loop Recorder Center",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "ILR01", "KGISCode": "29562054758030830000HFHFWPUSCRIRL0001", "KGISVillageID": 6683, "KGISWardID": 0, "ILRName": "Implantable Loop Recorder Center, Dharwad", "KGISILRID": 1 }, "geometry": { "type": "Point", "coordinates": [ 75.129924299997114, 15.363291200276089 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DepartmentCode": "ILR02", "KGISCode": "29572055428031620000HFHFWPUSCRIRL0001", "KGISVillageID": 15680, "KGISWardID": 0, "ILRName": "Implantable Loop Recorder Center, Bangalore City", "KGISILRID": 2 }, "geometry": { "type": "Point", "coordinates": [ 77.599136118379334, 12.937619412263583 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "DepartmentCode": "ILR03", "KGISCode": "29559054618030670000HFHFWPUSCRIRL0001", "KGISVillageID": 4237, "KGISWardID": 0, "ILRName": "Implantable Loop Recorder Center, Raichur", "KGISILRID": 3 }, "geometry": { "type": "Point", "coordinates": [ 77.357200000360734, 16.222499999856478 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Transit Clinic",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISTransit_ClinicID": 1, "DepartmentCode": "1", "KGISVillageID": 15480, "KGISWardID": 36, "KGISCode": "29572055428031620000HFHFWPUSCRHKI0001", "Transit_ClinicName": "Transit_Clinic, Yeshwanthpura BMTC Bus stand" }, "geometry": { "type": "Point", "coordinates": [ 77.547074599743965, 13.024229399942751 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISTransit_ClinicID": 2, "DepartmentCode": "2", "KGISVillageID": 30090, "KGISWardID": 12, "KGISCode": "29572055428031620000HFHFWPUSCRHKI0002", "Transit_ClinicName": "Transit_Clinic, Majestic BMTC Bus stand " }, "geometry": { "type": "Point", "coordinates": [ 77.563477999893877, 13.008309300432293 ] } }
+]
+}

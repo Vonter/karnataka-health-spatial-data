@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "JuniorTechnicalSchool",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISHE_JTSID": 1, "DepartmentCode": "1", "KGISWardID": null, "KGISVillageID": 5007, "KGISCode": "29565055008031140000HETEDINCOLJTS0001", "HE_JTSName": "Government Junior Technical School, Bellary", "Category": "Junior Technical School" }, "geometry": { "type": "Point", "coordinates": [ 76.902045000205618, 15.145808000044898 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISHE_JTSID": 2, "DepartmentCode": "2", "KGISWardID": null, "KGISVillageID": 6683, "KGISCode": "29562054758030830000HETEDINCOLJTS0001", "HE_JTSName": "Government Junior Technical School, Hubballi", "Category": "Junior Technical School" }, "geometry": { "type": "Point", "coordinates": [ 75.130527000098297, 15.358354999864707 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISHE_JTSID": 3, "DepartmentCode": "3", "KGISWardID": null, "KGISVillageID": 12394, "KGISCode": "29568055218031380000HETEDINCOLJTS0001", "HE_JTSName": "Junior Technical School, Bhadravathi", "Category": "Junior Technical School" }, "geometry": { "type": "Point", "coordinates": [ 75.694476999835857, 13.833032999583004 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISHE_JTSID": 4, "DepartmentCode": "4", "KGISWardID": null, "KGISVillageID": 26082, "KGISCode": "29575055618031810000HETEDINCOLJTS0001", "HE_JTSName": "Junior Technical School, Mangalore", "Category": "Junior Technical School" }, "geometry": { "type": "Point", "coordinates": [ 74.855964000190198, 12.89112000032817 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISHE_JTSID": 5, "DepartmentCode": "5", "KGISWardID": null, "KGISVillageID": 153, "KGISCode": "29556054478030480000HETEDINCOLJTS0001", "HE_JTSName": "Junior Technical School, Bagalkot", "Category": "Junior Technical School" }, "geometry": { "type": "Point", "coordinates": [ 75.708642000168595, 16.185341999795618 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISHE_JTSID": 6, "DepartmentCode": "6", "KGISWardID": null, "KGISVillageID": 3346, "KGISCode": "29579055828032070000HETEDINCOLJTS0001", "HE_JTSName": "Junior Technical School, Gulbarga", "Category": "Junior Technical School" }, "geometry": { "type": "Point", "coordinates": [ 76.83669599959687, 17.315246000205399 ] } }
+]
+}

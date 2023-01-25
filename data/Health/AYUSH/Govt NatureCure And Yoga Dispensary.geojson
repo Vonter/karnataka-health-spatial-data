@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Govt NatureCure And Yoga Dispensary",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "1", "KGISWardID": "", "KGISCode": "29571055366110750000HFAYUPUSCRGNC0001", "KGISVillageID": 18314, "AYNYDNAME": "Govt. Nature Cure And Yoga Dispensary, Siddarabetta", "KGISAYNYDID": 1 }, "geometry": { "type": "Point", "coordinates": [ 77.233452667373101, 13.518527594452605 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DepartmentCode": "2", "KGISWardID": null, "KGISCode": "29578055778032010000HFAYUPUSCRGNC0001", "KGISVillageID": 24983, "AYNYDNAME": "Govt. Nature Cure And Yoga Dispensary, Chamarajnagar", "KGISAYNYDID": 2 }, "geometry": { "type": "Point", "coordinates": [ 76.940124512971664, 11.92608642620891 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "DepartmentCode": "3", "KGISWardID": null, "KGISCode": "29562054756023920000HFAYUPUSCRGNC0001", "KGISVillageID": 6699, "AYNYDNAME": "Govt. Naturopathy and Yoga Dispensary,Banjara Colony Hubli", "KGISAYNYDID": 3 }, "geometry": { "type": "Point", "coordinates": [ 75.249248535083296, 15.417424723277243 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "DepartmentCode": "4", "KGISWardID": null, "KGISCode": "29557054498030510000HFAYUPUSCRGNC0001", "KGISVillageID": 4989, "AYNYDNAME": "Govt. Naturopathy and Yoga Dispensary,Bijapur District Hospital Premises", "KGISAYNYDID": 4 }, "geometry": { "type": "Point", "coordinates": [ 75.703839758518626, 16.827513545342612 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "DepartmentCode": "5", "KGISWardID": null, "KGISCode": "29563054788030900000HFAYUPUSCRGNC0001", "KGISVillageID": 9058, "AYNYDNAME": "Govt. Naturopathy and Yoga Dispensary,CU Ayush Wing Karwar", "KGISAYNYDID": 5 }, "geometry": { "type": "Point", "coordinates": [ 74.13798584298172, 14.817306099587929 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "DepartmentCode": "6", "KGISWardID": null, "KGISCode": "29564054928031040000HFAYUPUSCRGNC0001", "KGISVillageID": 7510, "AYNYDNAME": "Govt. Naturopathy and Yoga Dispensary,PKU CU Haveri", "KGISAYNYDID": 6 }, "geometry": { "type": "Point", "coordinates": [ 75.394204589894187, 14.785901763420814 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "DepartmentCode": "7", "KGISWardID": null, "KGISCode": "29570055308031490000HFAYUPUSCRGNC0001", "KGISVillageID": 10064, "AYNYDNAME": "Govt. Naturopathy and Yoga Dispensary,PKU CU Chikkamagaluru", "KGISAYNYDID": 7 }, "geometry": { "type": "Point", "coordinates": [ 75.773381807205851, 13.314064371187538 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "DepartmentCode": "8", "KGISWardID": null, "KGISCode": "29556054475988620000HFAYUPUSCRGNC0001", "KGISVillageID": 167, "AYNYDNAME": "Govt. Naturopathy and Yoga Dispensary,CU Bagalkot", "KGISAYNYDID": 8 }, "geometry": { "type": "Point", "coordinates": [ 75.666437002281356, 16.165431823298167 ] } }
+]
+}

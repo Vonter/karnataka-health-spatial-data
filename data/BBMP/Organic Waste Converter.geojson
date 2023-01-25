@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Organic Waste Converter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISOWCID": 1, "DepartmentCode": "1", "KGISWardID": 151, "KGISVillageID": 15530, "KGISCode": "29572055428031620000URBMPPUGENOWC0001", "OWCName": "Koramangala" }, "geometry": { "type": "Point", "coordinates": [ 77.614547222349884, 12.934119444330193 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISOWCID": 2, "DepartmentCode": "2", "KGISWardID": 65, "KGISVillageID": 15166, "KGISCode": "29572055428031620000URBMPPUGENOWC0002", "OWCName": "Kadu Malleshwar Ward" }, "geometry": { "type": "Point", "coordinates": [ 77.574641667070892, 13.007172221790363 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISOWCID": 3, "DepartmentCode": "3", "KGISWardID": 168, "KGISVillageID": 15682, "KGISCode": "29572055428031620000URBMPPUGENOWC0003", "OWCName": "Pattabhiram Nagar" }, "geometry": { "type": "Point", "coordinates": [ 77.580383332711293, 12.932427777894505 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISOWCID": 4, "DepartmentCode": "4", "KGISWardID": 156, "KGISVillageID": 15099, "KGISCode": "29572055428031620000URBMPPUGENOWC0004", "OWCName": "Srinagar" }, "geometry": { "type": "Point", "coordinates": [ 77.553147222162721, 12.948269444132983 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISOWCID": 5, "DepartmentCode": "5", "KGISWardID": 164, "KGISVillageID": 15721, "KGISCode": "29572055428031620000URBMPPUGENOWC0005", "OWCName": "Vidyapeeta ward" }, "geometry": { "type": "Point", "coordinates": [ 77.563727778232732, 12.932358332614388 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISOWCID": 6, "DepartmentCode": "6", "KGISWardID": 85, "KGISVillageID": 21393, "KGISCode": "29572055428031620000URBMPPUGENOWC0006", "OWCName": "Dodda Nekkundi" }, "geometry": { "type": "Point", "coordinates": [ 77.702741667124201, 12.973519443841143 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NatureCure And Yoga College",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 4, "DepartmentCode": "1", "KGISWardID": "", "KGISCode": "29575055618031800000HFAYUINCOLNCY0001", "AYNYName": "Alva’s Education Trust Nature Cure and Yoga College, Mangalore", "KGISVillageID": 26113, "KGISAYNYID": 1 }, "geometry": { "type": "Point", "coordinates": [ 74.993536111447057, 13.068999999662051 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "2", "KGISWardID": "", "KGISCode": "29577055728031940000HFAYUINCOLNCY0001", "AYNYName": "Government Nature Cure & Yoga College, Mysuru", "KGISVillageID": 28458, "KGISAYNYID": 2 }, "geometry": { "type": "Point", "coordinates": [ 76.631964128984137, 12.33959821856223 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DepartmentCode": "3", "KGISWardID": "", "KGISCode": "29575055636176530000HFAYUINCOLNCY0001", "AYNYName": "Sri Dharmasthala Manjunatheshwara College of Naturopathy and Yogic Sciences, Belthangadi", "KGISVillageID": 25902, "KGISAYNYID": 3 }, "geometry": { "type": "Point", "coordinates": [ 75.336836111066546, 12.98946694507865 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "DepartmentCode": "4", "KGISWardID": "", "KGISCode": "29572055456131560000HFAYUINCOLNCY0001", "AYNYName": "Swami Vivekananda Yoga Anusandhana Samsthana, Anekal", "KGISVillageID": 15055, "KGISAYNYID": 4 }, "geometry": { "type": "Point", "coordinates": [ 77.624246945688242, 12.75485111238825 ] } }
+]
+}

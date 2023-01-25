@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Central Processing Unit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISCPUID": 1, "DepartmentCode": "1", "KGISWardID": null, "KGISVillageID": 21246, "KGISCode": "29572055456131890000URBMPPUGENCPU0001", "CPUName": "CHIKKANAGAMANGALA WASTE PROCESSING PLANT " }, "geometry": { "type": "Point", "coordinates": [ 77.686188889216524, 12.857677778285817 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "KGISCPUID": 10, "DepartmentCode": "10", "KGISWardID": null, "KGISVillageID": 15276, "KGISCode": "29572055426128710000URBMPPUGENCPU0001", "CPUName": "RAMKY ENERGY AND ENVIRONMENT LTD " }, "geometry": { "type": "Point", "coordinates": [ 77.539383333350173, 13.12131944423377 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISCPUID": 2, "DepartmentCode": "2", "KGISWardID": null, "KGISVillageID": 20335, "KGISCode": "29583056026251650000URBMPPUGENCPU0001", "CPUName": "MSGP INFRATECH Pvt Ltd" }, "geometry": { "type": "Point", "coordinates": [ 77.349669443637495, 13.322111111055465 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISCPUID": 3, "DepartmentCode": "3", "KGISWardID": null, "KGISVillageID": 21246, "KGISCode": "29572055456131890000URBMPPUGENCPU0002", "CPUName": "CHIKKANAGAMANGALA WASTE PROCESSING PLANT" }, "geometry": { "type": "Point", "coordinates": [ 77.686308333279683, 12.856727777745615 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISCPUID": 4, "DepartmentCode": "4", "KGISWardID": null, "KGISVillageID": 15586, "KGISCode": "29572055436130620000URBMPPUGENCPU0001", "CPUName": "SUBBARAYANAPALYA WASTE PROCESSING PLANT" }, "geometry": { "type": "Point", "coordinates": [ 77.431247221693738, 12.882125000136693 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISCPUID": 5, "DepartmentCode": "5", "KGISWardID": 198, "KGISVillageID": 15588, "KGISCode": "29572055428031620000URBMPPUGENCPU0001", "CPUName": "LINGADEERANAHALLI WASTE PROCESSING UNIT " }, "geometry": { "type": "Point", "coordinates": [ 77.507247222228628, 12.875180555995538 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISCPUID": 6, "DepartmentCode": "6", "KGISWardID": 190, "KGISVillageID": 15517, "KGISCode": "29572055428031620000URBMPPUGENCPU0002", "CPUName": "KARNATAKA COMPOST DEVELOPMENT CORPORATION Ltd (KCDC" }, "geometry": { "type": "Point", "coordinates": [ 77.648941666677828, 12.89589166683578 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "KGISCPUID": 7, "DepartmentCode": "7", "KGISWardID": null, "KGISVillageID": 15478, "KGISCode": "29572055426128240000URBMPPUGENCPU0001", "CPUName": "NOBLE EXCHANGE KANNAHALLI PLANT " }, "geometry": { "type": "Point", "coordinates": [ 77.445550000312096, 12.969191667360741 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "KGISCPUID": 8, "DepartmentCode": "8", "KGISWardID": null, "KGISVillageID": 15476, "KGISCode": "29572055426128230000URBMPPUGENCPU0001", "CPUName": "SEEGEHALI SWM FACILITY" }, "geometry": { "type": "Point", "coordinates": [ 77.441366667029868, 12.97353055572413 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "KGISCPUID": 9, "DepartmentCode": "9", "KGISWardID": 40, "KGISVillageID": 15461, "KGISCode": "29572055428031620000URBMPPUGENCPU0003", "CPUName": "DODDABIDAREKALLU WASTE PROCESSING PLANT " }, "geometry": { "type": "Point", "coordinates": [ 77.480072221797954, 13.031172222024441 ] } }
+]
+}

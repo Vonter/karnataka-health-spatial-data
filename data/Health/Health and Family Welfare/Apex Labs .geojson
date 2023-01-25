@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Apex Labs ",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISApex_LabID": 1, "DepartmentCode": "1", "KGISCode": "29572055428031620000HFHFWPUSCRALB0001", "KGISVillageID": 15535, "KGISWardID": null, "Apex_LabName": "Apex Lab, NIMHANS, Bangalore" }, "geometry": { "type": "Point", "coordinates": [ 77.598071110043946, 12.940771087314232 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISApex_LabID": 2, "DepartmentCode": "2", "KGISCode": "29569055238031410000HFHFWPUSCRALB0001", "KGISVillageID": 14983, "KGISWardID": null, "Apex_LabName": "Apex Lab, MCVR, Manipal" }, "geometry": { "type": "Point", "coordinates": [ 74.784916663251224, 13.354694445326835 ] } }
+]
+}

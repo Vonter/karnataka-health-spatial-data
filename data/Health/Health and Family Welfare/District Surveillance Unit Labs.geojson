@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "District Surveillance Unit Labs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISDSU_LabID": 1, "DepartmentCode": "1", "KGISCode": "29555054388030340000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Belagavi", "KGISVillageID": 926, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 74.49575407408652, 15.832007564231766 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISDSU_LabID": 3, "DepartmentCode": "3", "KGISCode": "29574055566160460000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Hassan", "KGISVillageID": 22862, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 76.100785737484571, 13.020070981080908 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISDSU_LabID": 5, "DepartmentCode": "5", "KGISCode": "29573055508031680000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Mandya", "KGISVillageID": 24310, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 76.89960907835696, 12.52833510191406 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISDSU_LabID": 6, "DepartmentCode": "6", "KGISCode": "29577055728031940000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Mysore ", "KGISVillageID": 28460, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 76.667494892950131, 12.310937788771213 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISDSU_LabID": 8, "DepartmentCode": "8", "KGISCode": "29568055208031370000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Shivamogga", "KGISVillageID": 13451, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 75.563217139329495, 13.93572244174606 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISDSU_LabID": 9, "DepartmentCode": "9", "KGISCode": "29563054788030900000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Uttara Kannada", "KGISVillageID": 9058, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 74.131547839063899, 14.811210685466195 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "KGISDSU_LabID": 2, "DepartmentCode": "2", "KGISCode": "29558054578030600000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Bidar", "KGISVillageID": 30123, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 77.504681769755564, 17.915067058561164 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "KGISDSU_LabID": 7, "DepartmentCode": "7", "KGISCode": "29559054618030670000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Raichur", "KGISVillageID": 4237, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 77.357200000360734, 16.222499999856478 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "KGISDSU_LabID": 4, "DepartmentCode": "4", "KGISCode": "29576055668031870000HFHFWPUSCRSUL0001", "DSU_LabName": "District Surveillance Unit Labs, Kodagu", "KGISVillageID": 27181, "KGISWardID": null }, "geometry": { "type": "Point", "coordinates": [ 75.742499999740588, 12.418700000041211 ] } }
+]
+}

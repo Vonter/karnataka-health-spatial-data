@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "UCHC_RefferalHospital",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISUCHC_RefferalHospitalID": 3, "UCHC_HospitalName": "Srirampura referal hospital", "KGISCode": "29572055428031620000URBMPPUGENURH0001", "KGISVillageID": 15481, "KGISWardID": 5070, "ZoneCode": 20037, "WardCode": "2003097" }, "geometry": { "type": "Point", "coordinates": [ 77.565018399829157, 12.990915000397592 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISUCHC_RefferalHospitalID": 5, "UCHC_HospitalName": "Sirsi road maternity home & referal hospital", "KGISCode": "29572055428031620000URBMPPUGENURH0002", "KGISVillageID": 15081, "KGISWardID": 5155, "ZoneCode": 20037, "WardCode": "2003140" }, "geometry": { "type": "Point", "coordinates": [ 77.561143300288435, 12.961003399656484 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISUCHC_RefferalHospitalID": 7, "UCHC_HospitalName": "Govindarajnagar referal hospital", "KGISCode": "29572055428031620000URBMPPUGENURH0003", "KGISVillageID": 15116, "KGISWardID": 5083, "ZoneCode": 20037, "WardCode": "2003104" }, "geometry": { "type": "Point", "coordinates": [ 77.533792299655303, 12.978179299689515 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISUCHC_RefferalHospitalID": 8, "UCHC_HospitalName": "Halsuru reffrel hospital", "KGISCode": "29572055428031620000URBMPPUGENURH0004", "KGISVillageID": 30092, "KGISWardID": 5054, "ZoneCode": 20033, "WardCode": "2003089" }, "geometry": { "type": "Point", "coordinates": [ 77.626345799865788, 12.973601299555273 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISUCHC_RefferalHospitalID": 9, "UCHC_HospitalName": "UCHC Kengeri", "KGISCode": "29572055428031620000URBMPPUGENURH0005", "KGISVillageID": 15582, "KGISWardID": 5271, "ZoneCode": 20035, "WardCode": "2003198" }, "geometry": { "type": "Point", "coordinates": [ 77.483938400062769, 12.910156300413343 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISUCHC_RefferalHospitalID": 10, "UCHC_HospitalName": "Banashankari referral hospital", "KGISCode": "29572055428031620000URBMPPUGENURH0006", "KGISVillageID": 15702, "KGISWardID": 5206, "ZoneCode": 20036, "WardCode": "2003165" }, "geometry": { "type": "Point", "coordinates": [ 77.564639299607322, 12.922956600380681 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "KGISUCHC_RefferalHospitalID": 11, "UCHC_HospitalName": "H siddaiah road referal hospital ", "KGISCode": "29572055428031620000URBMPPUGENURH0007", "KGISVillageID": 15089, "KGISWardID": 5111, "ZoneCode": 20036, "WardCode": "2003118" }, "geometry": { "type": "Point", "coordinates": [ 77.58224469989743, 12.956424300025924 ] } }
+]
+}

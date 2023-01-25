@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Other Labs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISOther_LabsID": 1, "DepartmentCode": "1", "KGISVillageID": 30092, "KGISWardID": null, "KGISCode": "29572055428031620000HFHFWPUSCROLA0001", "Other_LabsName": "Public Health institute, Bengaluru" }, "geometry": { "type": "Point", "coordinates": [ 77.585888889345938, 12.976638889325285 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISOther_LabsID": 2, "DepartmentCode": "2", "KGISVillageID": 15680, "KGISWardID": null, "KGISCode": "29572055428031620000HFHFWPUSCROLA0002", "Other_LabsName": "SSL, NIV lab, Bangalore" }, "geometry": { "type": "Point", "coordinates": [ 77.590833333701568, 12.937444444447356 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISOther_LabsID": 3, "DepartmentCode": "3", "KGISVillageID": 15680, "KGISWardID": null, "KGISCode": "29572055428031620000HFHFWPUSCROLA0003", "Other_LabsName": "SSL, IGICH lab, Bangalore" }, "geometry": { "type": "Point", "coordinates": [ 77.592055555802617, 12.937472222090539 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISOther_LabsID": 4, "DepartmentCode": "4", "KGISVillageID": 15161, "KGISWardID": null, "KGISCode": "29572055428031620000HFHFWPUSCROLA0004", "Other_LabsName": "SSL, NCDC, Bangalore" }, "geometry": { "type": "Point", "coordinates": [ 77.583000000132586, 13.001472222192696 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISOther_LabsID": 5, "DepartmentCode": "5", "KGISVillageID": 15026, "KGISWardID": null, "KGISCode": "29572055456132630000HFHFWPUSCROLA0001", "Other_LabsName": "Narayana Nethralaya Lab, Bangalore" }, "geometry": { "type": "Point", "coordinates": [ 77.693805555700962, 12.806499999615147 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISOther_LabsID": 6, "DepartmentCode": "6", "KGISVillageID": 30092, "KGISWardID": null, "KGISCode": "29572055428031620000HFHFWPUSCROLA0005", "Other_LabsName": "Command Hospital Lab, Bangalore" }, "geometry": { "type": "Point", "coordinates": [ 77.628138888771574, 12.96466666627375 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "KGISOther_LabsID": 7, "DepartmentCode": "7", "KGISVillageID": 21477, "KGISWardID": null, "KGISCode": "29572055428031620000HFHFWPUSCROLA0006", "Other_LabsName": "Manipal Hospital Lab, Bangalore" }, "geometry": { "type": "Point", "coordinates": [ 77.649166666245165, 12.959083333094169 ] } }
+]
+}

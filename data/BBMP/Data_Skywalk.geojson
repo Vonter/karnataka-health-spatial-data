@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Data_Skywalk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 9, "KGISData_SkywalkID": 0.0, "DepartmentCode": "1", "KGISVillageID": 30092, "KGISWardID": 0.0, "Data_SkywalkName": "Skywalk Near Maharabi College on Sheshadri Road", "KGISCode": "29572055428031620000URBMPPUGENSKY0001" }, "geometry": { "type": "Point", "coordinates": [ 77.583920000402557, 12.978232000103548 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 15, "KGISData_SkywalkID": 0.0, "DepartmentCode": "11", "KGISVillageID": 15098, "KGISWardID": 0.0, "Data_SkywalkName": "Skywalk at Mekrhi Circle Junction to Bellary Road", "KGISCode": "29572055428031620000URBMPPUGENSKY0007" }, "geometry": { "type": "Point", "coordinates": [ 77.58402499973684, 13.020775000210593 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 16, "KGISData_SkywalkID": 0.0, "DepartmentCode": "12", "KGISVillageID": 21482, "KGISWardID": 0.0, "Data_SkywalkName": "Skywalk at Marathalli", "KGISCode": "29572055428031620000URBMPPUGENSKY0008" }, "geometry": { "type": "Point", "coordinates": [ 77.700781999804022, 12.956965000411696 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "KGISData_SkywalkID": 0.0, "DepartmentCode": "2", "KGISVillageID": 21414, "KGISWardID": 0.0, "Data_SkywalkName": "Skywalk Near K R Puram Bridge ", "KGISCode": "29572055428031620000URBMPPUGENSKY0002" }, "geometry": { "type": "Point", "coordinates": [ 77.669158999747083, 12.996842999769196 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "KGISData_SkywalkID": 0.0, "DepartmentCode": "4", "KGISVillageID": 21459, "KGISWardID": 0.0, "Data_SkywalkName": "Skywalk on Indira Nagara 100' Road-Domlur", "KGISCode": "29572055428031620000URBMPPUGENSKY0003" }, "geometry": { "type": "Point", "coordinates": [ 77.657765999895588, 12.895492999920972 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 12, "KGISData_SkywalkID": 0.0, "DepartmentCode": "5", "KGISVillageID": 21477, "KGISWardID": 0.0, "Data_SkywalkName": "Skywalk on Old Airport Road,Near Manipal", "KGISCode": "29572055428031620000URBMPPUGENSKY0004" }, "geometry": { "type": "Point", "coordinates": [ 77.649061999992199, 12.959726999879493 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 13, "KGISData_SkywalkID": 0.0, "DepartmentCode": "7", "KGISVillageID": 30092, "KGISWardID": 0.0, "Data_SkywalkName": "Skywalk Near Sophia School", "KGISCode": "29572055428031620000URBMPPUGENSKY0005" }, "geometry": { "type": "Point", "coordinates": [ 77.588615999800197, 12.986237000282751 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 14, "KGISData_SkywalkID": 0.0, "DepartmentCode": "8", "KGISVillageID": 30092, "KGISWardID": 0.0, "Data_SkywalkName": "Skywalk on K G Road Near Majestic", "KGISCode": "29572055428031620000URBMPPUGENSKY0006" }, "geometry": { "type": "Point", "coordinates": [ 77.576288000107056, 12.975248000206706 ] } }
+]
+}

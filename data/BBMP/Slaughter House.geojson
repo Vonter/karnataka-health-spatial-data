@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Slaughter House",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISSlaughter_HouseID": 1, "DepartmentCode": "1", "KGISWardID": 119, "KGISVillageID": 15089, "KGISCode": "29572055428031620000URBMPPUGENSLH0001", "Slaughter_HouseName": "City Slaugter House" }, "geometry": { "type": "Point", "coordinates": [ 77.582672499732496, 12.962707899781464 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISSlaughter_HouseID": 2, "DepartmentCode": "2", "KGISWardID": 60, "KGISVillageID": 15082, "KGISCode": "29572055428031620000URBMPPUGENSLH0002", "Slaughter_HouseName": "Civil Slaugter House" }, "geometry": { "type": "Point", "coordinates": [ 77.612435000383698, 13.002425000132261 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISSlaughter_HouseID": 3, "DepartmentCode": "3", "KGISWardID": 61, "KGISVillageID": 15121, "KGISCode": "29572055428031620000URBMPPUGENSLH0003", "Slaughter_HouseName": "Pig Slaugter House" }, "geometry": { "type": "Point", "coordinates": [ 77.609628000392476, 13.001579999767813 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISSlaughter_HouseID": 4, "DepartmentCode": "4", "KGISWardID": null, "KGISVillageID": 29272, "KGISCode": "29584056086263550000URBMPPUGENSLH0001", "Slaughter_HouseName": "Capri Meat House (BBMP)" }, "geometry": { "type": "Point", "coordinates": [ 77.452785999904251, 12.691366999650988 ] } }
+]
+}

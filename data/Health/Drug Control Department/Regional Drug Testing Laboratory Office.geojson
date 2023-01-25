@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Regional Drug Testing Laboratory Office",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "RDTLO1", "KGISVillageID": 6550, "KGISWardID": null, "KGISCode": "29562054738030830000HFDCOPUSCRRDT0001", "KGISRDTLOID": 1, "RDTLOName": "Office Of The Regional Drugs Testing Laboratory, Dharwad" }, "geometry": { "type": "Point", "coordinates": [ 74.988583333198193, 15.469944444149919 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DepartmentCode": "RDTLO2", "KGISVillageID": 29980, "KGISWardID": null, "KGISCode": "29565055008031140000HFDCOPUSCRRDT0001", "KGISRDTLOID": 2, "RDTLOName": "Office Of The Regional Drugs Testing Laboratory, Bellary" }, "geometry": { "type": "Point", "coordinates": [ 76.948972221914943, 15.145583333039228 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "DepartmentCode": "RDTLO3", "KGISVillageID": 30092, "KGISWardID": null, "KGISCode": "29572055428031620000HFDCOPUSCRRDT0001", "KGISRDTLOID": 3, "RDTLOName": "Office Of  The Regional Drugs Testing Laboratory, Bangalore" }, "geometry": { "type": "Point", "coordinates": [ 77.586555555732971, 12.982416666625387 ] } }
+]
+}

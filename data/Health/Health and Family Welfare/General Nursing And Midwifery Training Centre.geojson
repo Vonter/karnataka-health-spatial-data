@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "General Nursing And Midwifery Training Centre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 3, "DepartmentCode": "GNM01", "KGISCode": "29572055428031620000HFHFWINTCRGNM0001", "KGISVillageID": 30090, "KGISWardID": 0, "KGISGNMID": 1, "GNMName": "GNM Training Centre, KC General Hospital" }, "geometry": { "type": "Point", "coordinates": [ 77.56712170010772, 12.996395899662371 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "DepartmentCode": "GNM02", "KGISCode": "29558054578030600000HFHFWINTCRGNM0001", "KGISVillageID": 30123, "KGISWardID": 0, "KGISGNMID": 2, "GNMName": "GNM Training Centre, Bidar District Hospital" }, "geometry": { "type": "Point", "coordinates": [ 77.514799999625794, 17.918300000405406 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DepartmentCode": "GNM03", "KGISCode": "29563054788030900000HFHFWINTCRGNM0001", "KGISVillageID": 9058, "KGISWardID": 0, "KGISGNMID": 3, "GNMName": "GNM Training Centre, Uttara Kannada District Hospital FRU" }, "geometry": { "type": "Point", "coordinates": [ 74.129200000242534, 14.817300000424266 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "GNM04", "KGISCode": "29561054708030780000HFHFWINTCRGNM0001", "KGISVillageID": 6954, "KGISWardID": 0, "KGISGNMID": 4, "GNMName": "GNM Training Centre, Gadag District Hospital FRU" }, "geometry": { "type": "Point", "coordinates": [ 75.635200000187709, 15.4318999995863 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "DepartmentCode": "GNM05", "KGISCode": "29578055778032010000HFHFWINTCRGNM0001", "KGISVillageID": 24983, "KGISWardID": 0, "KGISGNMID": 5, "GNMName": "GNM Training Centre, Chamarajnagar District Hospital FRU" }, "geometry": { "type": "Point", "coordinates": [ 76.941499999631375, 11.9267999999806 ] } }
+]
+}

@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Bio Mithanization Unit",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISBMUID": 1, "DepartmentCode": "1", "KGISWardID": 11, "KGISVillageID": 15424, "KGISCode": "29572055428031620000URBMPPUGENBMU0001", "BMUName": "MAIL HEM Engineers Pvt Ltd " }, "geometry": { "type": "Point", "coordinates": [ 77.540727778007934, 13.084772222409384 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "KGISBMUID": 10, "DepartmentCode": "10", "KGISWardID": 190, "KGISVillageID": 15517, "KGISCode": "29572055428031620000URBMPPUGENBMU0010", "BMUName": "Ashoka Biogreen Pvt Limited" }, "geometry": { "type": "Point", "coordinates": [ 77.650711110544975, 12.896183332668496 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "KGISBMUID": 11, "DepartmentCode": "11", "KGISWardID": 192, "KGISVillageID": 15505, "KGISCode": "29572055428031620000URBMPPUGENBMU0011", "BMUName": "Ashoka Biogreen Pvt Limited" }, "geometry": { "type": "Point", "coordinates": [ 77.626697222230959, 12.872922221746457 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISBMUID": 2, "DepartmentCode": "2", "KGISWardID": 168, "KGISVillageID": 15682, "KGISCode": "29572055428031620000URBMPPUGENBMU0002", "BMUName": "Ashoka Biogreen Pvt Limited" }, "geometry": { "type": "Point", "coordinates": [ 77.580366667260606, 12.932491667318423 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISBMUID": 3, "DepartmentCode": "3", "KGISWardID": 151, "KGISVillageID": 15530, "KGISCode": "29572055428031620000URBMPPUGENBMU0003", "BMUName": "Ashoka Biogreen Pvt Limited" }, "geometry": { "type": "Point", "coordinates": [ 77.614044443828021, 12.933802777964736 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISBMUID": 4, "DepartmentCode": "4", "KGISWardID": 35, "KGISVillageID": 15165, "KGISCode": "29572055428031620000URBMPPUGENBMU0004", "BMUName": "MAIL HEM Engineers Pvt Ltd " }, "geometry": { "type": "Point", "coordinates": [ 77.563294444309847, 13.02131388908567 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISBMUID": 5, "DepartmentCode": "5", "KGISWardID": 94, "KGISVillageID": 30092, "KGISCode": "29572055428031620000URBMPPUGENBMU0005", "BMUName": "MAIL HEM Engineers Pvt Ltd " }, "geometry": { "type": "Point", "coordinates": [ 77.580499999734087, 12.976875000378223 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISBMUID": 6, "DepartmentCode": "6", "KGISWardID": 139, "KGISVillageID": 30092, "KGISCode": "29572055428031620000URBMPPUGENBMU0006", "BMUName": "Ashoka Biogreen Pvt Limited" }, "geometry": { "type": "Point", "coordinates": [ 77.576705555958711, 12.965877777902076 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "KGISBMUID": 7, "DepartmentCode": "7", "KGISWardID": 112, "KGISVillageID": 15093, "KGISCode": "29572055428031620000URBMPPUGENBMU0007", "BMUName": "Ashoka Biogreen Pvt Limited" }, "geometry": { "type": "Point", "coordinates": [ 77.640711110796076, 12.960922222334641 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "KGISBMUID": 8, "DepartmentCode": "8", "KGISWardID": 151, "KGISVillageID": 15530, "KGISCode": "29572055428031620000URBMPPUGENBMU0008", "BMUName": "Ashoka Biogreen Pvt Limited" }, "geometry": { "type": "Point", "coordinates": [ 77.614061111343801, 12.933791666821087 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "KGISBMUID": 9, "DepartmentCode": "9", "KGISWardID": 167, "KGISVillageID": 30092, "KGISCode": "29572055428031620000URBMPPUGENBMU0009", "BMUName": "Ashoka Biogreen Pvt Limited" }, "geometry": { "type": "Point", "coordinates": [ 77.579977778163624, 12.93626666670299 ] } }
+]
+}

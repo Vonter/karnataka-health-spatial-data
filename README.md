@@ -1,23 +1,58 @@
-# Karnataka Health Spatial Data
+# Karnataka Social Services Data
 
 ![Karnataka PHC](phc.png)
-*Karnataka PHC Boundaries*
+*Karnataka Primary Health Center Boundaries*
 
 ### Source
 
-Data on this repository has been scraped/sourced from:
+Data on this repository has been gratefully scraped from:
 
-- Karnataka: [KSRSAC](https://ksrsac.karnataka.gov.in/)
+- [KSRSAC](https://ksrsac.karnataka.gov.in/)
+- [KGIS](https://kgis.ksrsac.in/kgis1/portal.aspx)
 
 ### Data
 
 Available for the following features:
-- Location:
-  - Urban Primary Health Center (Bengaluru only)
+
+- BBMP
+  - Bangalore One
+  - Dry Waste Collection Center
+  - Indira Canteen
+  - Park
+  - Playground
+  - Toilet
+  - Ward Office
+  - Zone Office
+- BESCOM
+  - ATP Counter
+  - BESCOM Office
+  - Boundary
+- BWSSB
+  - Boundary
+  - Ground Level Reservoir
+  - Kiosk
+  - Over Head Tank
+  - Sewage Treatment Plant
+  - Sewer Line
+  - Water Line
+- Education
+  - Boundary
+  - Higher Education
+    - College (Degree/Engineering)
+    - Polytechnic Institute
+    - Teacher Education Institution
+    - University
+  - Primary/Secondary Education
+    - PUC
+    - School
+- Health
   - Anganwadi
-  - Polio Immunization Center
-- Boundaries:
-  - Primary Health Center
-  - Community Health Center
-  - Sub Center
-  - Taluk Hospital
+  - Blood Bank/Storage Center
+  - Boundary
+  - Medical Shop/Pharmacy
+  - Health and Family Welfare (Hospital/Center/Lab)
+  - Immunization
+  - KSAPS (Karnataka State AIDS Prevention Society)
+  - Medical Education
+  - Tuberculosis Center
+  - UPHC

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Leaf Litter Processing Units",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISLLPUID": 1, "DepartmentCode": "1", "KGISWardID": 80, "KGISVillageID": 21413, "KGISCode": "29572055428031620000URBMPPUGENLPU0001", "LLPUName": "Hoysala Nagar" }, "geometry": { "type": "Point", "coordinates": [ 77.644858333460064, 12.975819444238621 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISLLPUID": 2, "DepartmentCode": "2", "KGISWardID": 167, "KGISVillageID": 15720, "KGISCode": "29572055428031620000URBMPPUGENLPU0002", "LLPUName": "Yediyur" }, "geometry": { "type": "Point", "coordinates": [ 77.577158332834998, 12.93258333295617 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISLLPUID": 3, "DepartmentCode": "3", "KGISWardID": 169, "KGISVillageID": 15680, "KGISCode": "29572055428031620000URBMPPUGENLPU0003", "LLPUName": "Byrasandra" }, "geometry": { "type": "Point", "coordinates": [ 77.589413888717431, 12.932602777782275 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISLLPUID": 4, "DepartmentCode": "4", "KGISWardID": 151, "KGISVillageID": 15524, "KGISCode": "29572055428031620000URBMPPUGENLPU0004", "LLPUName": "Koramangala" }, "geometry": { "type": "Point", "coordinates": [ 77.627119444125029, 12.928280556184504 ] } }
+]
+}

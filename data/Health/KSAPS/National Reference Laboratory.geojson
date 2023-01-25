@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "National Reference Laboratory",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "NRL01", "KGISCode": "29572055428031620000HFAPSPUSCRNRL0001", "NRLName": "NR Laboratory, NIMHANS Bangalore", "KGISNRLID": 1, "KGISVillageID": 15535, "KGISWardID": 0 }, "geometry": { "type": "Point", "coordinates": [ 77.598211968771992, 12.94070295841051 ] } }
+]
+}

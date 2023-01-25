@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Zone_Office",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISZONE_OFFICEID": 2, "ZonalOffice_Name": "JC Office, Yelahanka", "KGISCode": "29572055428031620000URBMPPUGENBZO0001", "KGISVillageID": 15392, "KGISWardID": 4890, "ZoneCode": 20038, "WardCode": "2003007" }, "geometry": { "type": "Point", "coordinates": [ 77.593843300432539, 13.067296700303634 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISZONE_OFFICEID": 3, "ZonalOffice_Name": "JC Office, Bommanahalli", "KGISCode": "29572055428031620000URBMPPUGENBZO0002", "KGISVillageID": 15509, "KGISWardID": 5226, "ZoneCode": 20031, "WardCode": "2003175" }, "geometry": { "type": "Point", "coordinates": [ 77.627796799671415, 12.905821700095734 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISZONE_OFFICEID": 7, "ZonalOffice_Name": "JC Office, Mahadevapura", "KGISCode": "29572055428031620000URBMPPUGENBZO0003", "KGISVillageID": 21410, "KGISWardID": 5039, "ZoneCode": 20034, "WardCode": "2003082" }, "geometry": { "type": "Point", "coordinates": [ 77.695965000273745, 12.994513329695257 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISZONE_OFFICEID": 10, "ZonalOffice_Name": "JC Office, West Zone", "KGISCode": "29572055428031620000URBMPPUGENBZO0004", "KGISVillageID": 30090, "KGISWardID": 5063, "ZoneCode": 20037, "WardCode": "2003094" }, "geometry": { "type": "Point", "coordinates": [ 77.571630400247088, 12.991324200192127 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISZONE_OFFICEID": 12, "ZonalOffice_Name": "ZC Office, South Zone", "KGISCode": "29572055428031620000URBMPPUGENBZO0005", "KGISVillageID": 15137, "KGISWardID": 5182, "ZoneCode": 20036, "WardCode": "2003153" }, "geometry": { "type": "Point", "coordinates": [ 77.583718299581221, 12.939338800167826 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISZONE_OFFICEID": 14, "ZonalOffice_Name": "ZC Office, Dasarahalli", "KGISCode": "29572055428031620000URBMPPUGENBZO0006", "KGISVillageID": 15450, "KGISWardID": 4903, "ZoneCode": 20032, "WardCode": "2003014" }, "geometry": { "type": "Point", "coordinates": [ 77.506613699562593, 13.058036999908261 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "KGISZONE_OFFICEID": 16, "ZonalOffice_Name": " ZC Office, Rajarajeshwari Nagar", "KGISCode": "29572055428031620000URBMPPUGENBZO0007", "KGISVillageID": 15570, "KGISWardID": 5195, "ZoneCode": 20035, "WardCode": "2003160" }, "geometry": { "type": "Point", "coordinates": [ 77.516066099635694, 12.928230500102629 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "KGISZONE_OFFICEID": 18, "ZonalOffice_Name": "JC Office, East zone", "KGISCode": "29572055428031620000URBMPPUGENBZO0008", "KGISVillageID": 30092, "KGISWardID": 5098, "ZoneCode": 20033, "WardCode": "2003111" }, "geometry": { "type": "Point", "coordinates": [ 77.610038400100265, 12.973505899758791 ] } }
+]
+}

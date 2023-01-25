@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Unani College",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "1", "KGISCode": "29572055428031620000HFAYUINCOLUNC0001", "AUCName": "Government Unani Medical College, Bangalore (North)", "KGISVillageID": 15470, "KGISWardID": 0, "KGISAUCID": 1 }, "geometry": { "type": "Point", "coordinates": [ 77.537684999576669, 12.982856111104958 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "DepartmentCode": "2", "KGISCode": "29571055378031570000HFAYUINCOLUNC0001", "AUCName": "H.M.S. Education Society’s Unani Medical College, Tumakuru", "KGISVillageID": 19628, "KGISWardID": 0, "KGISAUCID": 2 }, "geometry": { "type": "Point", "coordinates": [ 77.090626110670684, 13.324768889135088 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "DepartmentCode": "3", "KGISCode": "29557054498030510000HFAYUINCOLUNC0001", "AUCName": "S.C.C.A.B. Association Luqman Unani Medical College, Vijayapura", "KGISVillageID": 4989, "KGISWardID": 0, "KGISAUCID": 3 }, "geometry": { "type": "Point", "coordinates": [ 75.712588889324849, 16.823103889092195 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DepartmentCode": "4", "KGISCode": "29579055826202620000HFAYUINCOLUNC0001", "AUCName": "Tippu Sultan Shaheed Education Trust Unani Medical College, Kallburgi", "KGISVillageID": 3360, "KGISWardID": 0, "KGISAUCID": 4 }, "geometry": { "type": "Point", "coordinates": [ 76.854601111158075, 17.358603888700692 ] } }
+]
+}

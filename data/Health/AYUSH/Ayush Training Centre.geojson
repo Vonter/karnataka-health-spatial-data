@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ayush Training Centre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 5, "DepartmentCode": "1", "KGISVillageID": 29969, "KGISWardID": null, "KGISCode": "29584056066260750000HFAYUDUTCRATC0001", "AyushTrainingCentreName": "Ayush Training Centre, Sugnahalli", "KGISAYTCID": 1 }, "geometry": { "type": "Point", "coordinates": [ 77.300652000252029, 12.801287999721227 ] } }
+]
+}

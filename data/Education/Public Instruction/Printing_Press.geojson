@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Printing_Press",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "KGISPrinting_PressID": 1, "DepartmentCode": "1", "KGISWardID": null, "KGISVillageID": 15581, "KGISCode": "29572055428031620000HECEDINCOLPTP0001", "Building_Type": "Office/Printing Press" }, "geometry": { "type": "Point", "coordinates": [ 77.50025399984095, 12.933803999966351 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "KGISPrinting_PressID": 2, "DepartmentCode": "2", "KGISWardID": null, "KGISVillageID": 15581, "KGISCode": "29572055428031620000HECEDINCOLPTP0002", "Building_Type": "Office/Printing Press" }, "geometry": { "type": "Point", "coordinates": [ 77.501713000284738, 12.934703000401811 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "KGISPrinting_PressID": 3, "DepartmentCode": "3", "KGISWardID": null, "KGISVillageID": 15581, "KGISCode": "29572055428031620000HECEDINCOLPTP0003", "Building_Type": "Office/Book Depot" }, "geometry": { "type": "Point", "coordinates": [ 77.501971999618704, 12.934539999861833 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "KGISPrinting_PressID": 4, "DepartmentCode": "4", "KGISWardID": null, "KGISVillageID": 30092, "KGISCode": "29572055428031620000HECEDINCOLPTP0004", "Building_Type": "Office/Printing Press" }, "geometry": { "type": "Point", "coordinates": [ 77.58911099965691, 12.978317999573154 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "KGISPrinting_PressID": 5, "DepartmentCode": "5", "KGISWardID": null, "KGISVillageID": 15491, "KGISCode": "29572055428031620000HECEDINCOLPTP0005", "Building_Type": "Office/Printing Press" }, "geometry": { "type": "Point", "coordinates": [ 77.525189999667006, 13.041369999579098 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "KGISPrinting_PressID": 6, "DepartmentCode": "6", "KGISWardID": null, "KGISVillageID": 28460, "KGISCode": "29577055728031940000HECEDINCOLPTP0001", "Building_Type": "Office/Printing Press" }, "geometry": { "type": "Point", "coordinates": [ 76.635011000213183, 12.306474000446626 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "KGISPrinting_PressID": 7, "DepartmentCode": "7", "KGISWardID": null, "KGISVillageID": 27181, "KGISCode": "29576055668031870000HECEDINCOLPTP0001", "Building_Type": "Office/Printing Press" }, "geometry": { "type": "Point", "coordinates": [ 75.736211000136208, 12.419251000001648 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "KGISPrinting_PressID": 8, "DepartmentCode": "8", "KGISWardID": null, "KGISVillageID": 6550, "KGISCode": "29562054738030830000HECEDINCOLPTP0001", "Building_Type": "Office/Printing Press" }, "geometry": { "type": "Point", "coordinates": [ 74.993067000111751, 15.465206999728721 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "KGISPrinting_PressID": 9, "DepartmentCode": "9", "KGISWardID": null, "KGISVillageID": 3351, "KGISCode": "29579055828032070000HECEDINCOLPTP0001", "Building_Type": "Office/Printing Press" }, "geometry": { "type": "Point", "coordinates": [ 76.824372999832448, 17.322155000011819 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "KGISPrinting_PressID": 10, "DepartmentCode": "10", "KGISWardID": null, "KGISVillageID": 30092, "KGISCode": "29572055428031620000HECEDINCOLPTP0006", "Building_Type": "Office/Book Depot" }, "geometry": { "type": "Point", "coordinates": [ 77.588599103592983, 12.977875013736384 ] } }
+]
+}

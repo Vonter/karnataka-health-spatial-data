@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ayush Drug Licensing Authority",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 4, "DepartmentCode": "1", "KGISVillageID": 30092, "KGISWardID": "", "KGISCode": "29572055428031620000HFAYUDUOFFDLA0001", "DrugLicencingAuthorityName": "Drug Licencing Authority, Bengaluru", "KGISDLAID": 1 }, "geometry": { "type": "Point", "coordinates": [ 77.594772078025159, 12.971611834743449 ] } }
+]
+}

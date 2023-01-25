@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Ayurveda Board",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "1", "KGISWardID": "", "KGISCode": "29572055428031620000HFAYUPUSCRAYB0001", "KGISAYBID": 1, "AYBName": "Ayurveda and Unani Practitioner Registration Board, Bengaluru", "KGISVillageID": 15077 }, "geometry": { "type": "Point", "coordinates": [ 77.573585627676422, 12.979750241149794 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DepartmentCode": "2", "KGISWardID": "", "KGISCode": "29572055428031620000HFAYUPUSCRAYB0002", "KGISAYBID": 2, "AYBName": "Homeopathy Practitioner Registration Board, Bengaluru", "KGISVillageID": 30092 }, "geometry": { "type": "Point", "coordinates": [ 77.594344022371658, 12.971627441185824 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Drug Controller Office",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "DepartmentCode": "DDCO1", "KGISVillageID": 29980, "KGISWardID": null, "KGISCode": "29565055008031140000HFDCOPUSCRDCO0001", "KGISDCOID": 1, "DCOName": "Office Of  The Deputy Drugs Controller, Bellary" }, "geometry": { "type": "Point", "coordinates": [ 76.948972221914943, 15.145583333039228 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "DepartmentCode": "DDCO3", "KGISVillageID": 6692, "KGISWardID": null, "KGISCode": "29562054756023760000HFDCOPUSCRDCO0001", "KGISDCOID": 3, "DCOName": "Office Of  The Deputy Drugs Controller, Hubli" }, "geometry": { "type": "Point", "coordinates": [ 75.117333333056436, 15.378583333777719 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "DepartmentCode": "DDCO4", "KGISVillageID": 28444, "KGISWardID": null, "KGISCode": "29577055726188290000HFDCOPUSCRDCO0001", "KGISDCOID": 4, "DCOName": "Office Of  The Deputy Drugs Controller, Mysore" }, "geometry": { "type": "Point", "coordinates": [ 76.605555555674059, 12.316833333236872 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "DepartmentCode": "DDCO2", "KGISVillageID": 3351, "KGISWardID": null, "KGISCode": "29579055828032070000HFDCOPUSCRDCO0001", "KGISDCOID": 2, "DCOName": "Office Of  The Deputy Drugs Controller, Gulbarga" }, "geometry": { "type": "Point", "coordinates": [ 76.814749999790237, 17.333666666892327 ] } }
+]
+}
